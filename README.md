@@ -38,4 +38,4 @@ Think about the component structure you will use.
 
 My test project looked like this: 
 
-![Example]()
+![Example](Screen-Shot.png)
